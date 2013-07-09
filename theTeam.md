@@ -46,7 +46,7 @@ theme:
     <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/team/ericHosick.png">
     <h2 class="featurette-heading">Eric Hosick</h2>
     <h2 class="featurette-heading muted">Founder</h2>
-    <p class="lead">Eric Hosick received his CS degree from San Jose State University and Graduate Certificate in Tertiary Learning from the Royal Melbourne Institute of Technology. At the age of 16, Eric was involved in his first startup. Today, and 25 years of technology and leadership experience later, Eric is focusing on fundamentally new ways of approaching software development and IT education. Building on his experience in software engineering, two and a half years of lecturing and twenty years of startup experience, Eric hopes to build out an amazing team that will bring out truly useful development tools and educational products for aspiring IT professionals.</p>
+    <p class="lead">Eric Hosick received his CS degree from San Jose State University and Graduate Certificate in Tertiary Learning from the Royal Melbourne Institute of Technology. At the age of 16, Eric was involved in his first startup. Today, and 25 years of technology and leadership experience later, Eric is focusing on fundamentally new ways of approaching software development and IT education. Building on his experience in software engineering, two and a half years of lecturing and twenty years of startup experience, Eric hopes to build out an amazing team that will bring out truly awesome development tools and educational products for aspiring software visionaries.</p>
   </div> <!-- featurette -->
   <hr class="featurette-divider">
 
