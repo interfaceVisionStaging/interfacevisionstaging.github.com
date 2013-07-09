@@ -81,8 +81,19 @@ in default.html
       // carousel demo
       $('#myCarousel').carousel()
     })
-  }(window.jQuery)
+  }(window.jQuery);
+  
+  $(document).ready(function() {  
+     $("#myCarousel").swiperight(function() {  
+        $("#myCarousel").carousel('prev');  
+      });  
+     $("#myCarousel").swipeleft(function() {  
+        $("#myCarousel").carousel('next');  
+     });  
+  });  
+  
 </script>
+
 
 
 
