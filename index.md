@@ -12,6 +12,16 @@ theme:
 <div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
     <div class="item active">
+      <img src="{{ ASSET_PATH }}/img/carousel/slide-05.jpg" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Develop Software Without Writing Code</h1>
+          <p class="lead">Interface Vision has simplified the development process by creating the first true cross platform, non domain-specific, GUI based Visual Development Platform (VDP) for the software fulfillment process: Vision.</p>
+          <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+        </div> <!-- carousel-caption -->
+      </div> <!-- container -->
+    </div> <!-- item active -->
+    <div class="item">
       <img src="{{ ASSET_PATH }}/img/carousel/slide-01.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
@@ -84,21 +94,17 @@ theme:
 
   <hr class="featurette-divider">
   <div class="featurette">
-    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/browser-icon-chrome.png">
-    <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/index/iPadMockupParts524x410.png">
+    <h2 class="featurette-heading">Collaboration <span class="muted">For All Things</span></h2>
+    <p class="lead">We want to see developers, UX/UI designers, product owners, entrepreneurs and customers continually collaborating with each other to build out their software products.</p>
+<p class="lead">Collaboration takes place within our core product, Vision, where everyone can work together seamlessly. This seamless collaboration is possible because our users never have to write code.</p>
   </div> <!-- featurette -->
   <hr class="featurette-divider">
   <div class="featurette">
-    <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/browser-icon-firefox.png">
-    <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See for yourself.</span></h2>
-    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-  </div> <!-- featurette -->
-  <hr class="featurette-divider">
-  <div class="featurette">
-    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/browser-icon-safari.png">
-    <h2 class="featurette-heading">And lastly, this one. <span class="muted">Checkmate.</span></h2>
-    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/index/iPadMockupVision524x409.png">
+    <h2 class="featurette-heading">Parts <span class="muted">Reuse</span></h2>
+    <p class="lead">Instead of coding, Vision users collaboratively drag software parts from a toolbox, arrange the parts on a canvas, and connect the parts to direct the flow of activity through assembly.</p>
+    <p class="lead">This allows users to focus on their product. Users are able to see their changes live as Vision is always running what is being built. This means a UX designer get immediate feedback and a product owner see their product features implemented in real time.</p>
   </div> <!-- featurette -->
   <hr class="featurette-divider">
 
