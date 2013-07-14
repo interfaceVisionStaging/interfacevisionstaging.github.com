@@ -73,21 +73,21 @@ theme:
   <!-- Three columns of text below the carousel -->
   <div class="row">
     <div class="span4">
-      <img class="img-circle" data-src="holder.js/140x140">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+      <img class="img-rounded" width="140" height="140" src="{{ ASSET_PATH }}/img/index/timeAndMoney.png">
+      <h2>Save Time and Money</h2>
+      <p>Using our GUI-based Visual Development Platform you compose parts and templates, which increase reuse of prior work and enables them to stop re-inventing the proverbial wheel saving you mass amounts of time and money.</p>
       <p><a class="btn" href="#">View details &raquo;</a></p>
     </div><!-- span4 -->
     <div class="span4">
-      <img class="img-circle" data-src="holder.js/140x140">
-      <h2>Heading</h2>
-      <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus</p>
+      <img class="img-rounded" width="140" height="140" src="{{ ASSET_PATH }}/img/index/createAnything.png">
+      <h2>Create Anything</h2>
+      <p>What you make with Vision is only limited to your imagination from back-end B2B services to Games anything is possible within our Development Platform.</p>
       <p><a class="btn" href="#">View details &raquo;</a></p>
     </div> <!-- span4 -->
     <div class="span4">
-      <img class="img-circle" data-src="holder.js/140x140">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor </p>
+      <img class="img-circle" width="140" height="140" src="{{ ASSET_PATH }}/img/index/consistent3.png">
+      <h2>Consistent</h2>
+      <p>Coding idiosyncrasies are removed, no more will you have to learn or figure out or use various platform syntax and “grammar.” Simply put the pieces of the puzzle together to make your own design.</p>
       <p><a class="btn" href="#">View details &raquo;</a></p>
     </div> <!-- span4 -->
   </div> <!-- row -->
