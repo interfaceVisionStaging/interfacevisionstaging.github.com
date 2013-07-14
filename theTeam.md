@@ -29,17 +29,19 @@ theme:
 <div class="container marketing">
 
   <div class="featurette">
-    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/browser-icon-chrome.png">
+    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/team/kevinBeattie.png">
     <h2 class="featurette-heading">Kevin Beattie</h2>
     <h2 class="featurette-heading muted">Server Infrastructure</h2>
     <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
   </div> <!-- featurette -->
   <hr class="featurette-divider">
   <div class="featurette">
-    <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/browser-icon-firefox.png">
+    <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/team/chrisHylton.png">
     <h2 class="featurette-heading">Chris Hylton</h2>
     <h2 class="featurette-heading muted">Co-founder</h2>
-    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    <p class="lead">Chris Hylton is the visionary behind the direction and the face of Interface Vision.  A born orator and salesman Chris is very much in tune with the focus and direction of the general marketplace and has shown through assistance, teaching, marketing plans and action that he is capable of turning around and driving sales.  Through his large experience as a project manager he has built many a successful team to run and execute various programs from communication, design and engineering, to customer service, and more recently building out physical locations and running programs and releasing new products within a very short period of time.</p>
+	
+	<p class="lead">With a few months of planning, Chris was able to help steer the direction of Interface Vision to a more customer focused application with the goal of opening up the world of technology design to the mind and imagination of the masses . It’s these skills that make him a great team member.</p>
   </div> <!-- featurette -->
   <hr class="featurette-divider">
   <div class="featurette">
