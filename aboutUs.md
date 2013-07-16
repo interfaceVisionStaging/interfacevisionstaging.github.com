@@ -16,7 +16,7 @@ theme:
       <div class="container">
         <div class="carousel-caption">
           <h1>About Us</h1>
-          <p class="lead">We are here to decode software development.</p>
+          <p class="lead">Interface Vision is here to decode software development.</p>
           <a class="btn btn-large btn-primary" href="#">Join The Vision</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
@@ -28,6 +28,15 @@ theme:
 <!-- Wrap the rest of the page in another container to center all the content. -->
 
 <div class="container marketing">
+  
+  <div class="featurette">
+    <h2 class="featurette-heading">About</h2>
+    <h2 class="featurette-heading muted">Interface Vision</h2>
+    <p class="lead">We are here to serve the software development community by providing awesome software development and learning tools. We fully understand the frustration that designers, developers and users feel during the development process. We want to remove those frustrations by creating a product that allows for collaboration by everyone at every stop in the software fulfillment process.</p>
+  </div> <!-- featurette -->
+  
+  <hr class="featurette-divider">
+  
   <div class="featurette">
     <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/team/ericHosick.png">
     <h2 class="featurette-heading">Eric Hosick</h2>
@@ -50,7 +59,7 @@ theme:
     <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/team/kevinBeattie.png">
     <h2 class="featurette-heading">Kevin Beattie</h2>
     <h2 class="featurette-heading muted">Server Infrastructure</h2>
-    <p class="lead">Kevin Beattie received his CNA Degree from Bergen College and is the "man behind the curtain" for Interface Vision's Server Infrastructure. Having spent nearly a decade working in IT for Industry Titans across the United States and Silicon Valley at well known brands, such as Ricoh and Netflix, Kevin brings to Interface Vision his vast years of experience and technical know-how, to help transform software development, and eventually open programming to the masses.</p>
+    <p class="lead">Kevin Beattie received his CNA degree from Bergen College and is the "man behind the curtain" for Interface Vision's server infrastructure. Having spent nearly a decade working in IT for industry titans across the United States and Silicon Valley at well known brands, such as Ricoh and Netflix, Kevin brings to Interface Vision his vast years of experience and technical know-how, to help transform software development, and eventually open programming to the masses.</p>
   </div> <!-- featurette -->
   <hr class="featurette-divider">
 
