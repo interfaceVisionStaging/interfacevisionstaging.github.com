@@ -27,6 +27,34 @@ body {
 
 }
 
+.navbar-inverse .navbar-inner {
+  background-color: #333333;
+  background-image: -moz-linear-gradient(top, #333333, #292929);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#333333), to(#292929));
+  background-image: -webkit-linear-gradient(top, #333333, #292929);
+  background-image: -o-linear-gradient(top, #333333, #292929);
+  background-image: linear-gradient(to bottom, #333333, #292929);
+  background-repeat: repeat-x;
+  border-color: #333333;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff333333', endColorstr='#ff292929', GradientType=0);
+}
+
+/*
+
+.navbar-inverse .navbar-inner {
+  background-color: #1b1b1b;
+  background-image: -moz-linear-gradient(top, #222222, #111111);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#222222), to(#111111));
+  background-image: -webkit-linear-gradient(top, #222222, #111111);
+  background-image: -o-linear-gradient(top, #222222, #111111);
+  background-image: linear-gradient(to bottom, #222222, #111111);
+  background-repeat: repeat-x;
+  border-color: #252525;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);
+}
+
+*/
+
 /* Remove border and change up box shadow for more contrast */
 .navbar .navbar-inner {
   border: 0;
