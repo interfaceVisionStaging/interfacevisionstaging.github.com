@@ -75,8 +75,8 @@ theme:
     <div class="span4">
       <img class="img-rounded" width="140" height="140" src="{{ ASSET_PATH }}/img/index/timeAndMoney.png">
       <h2>Save Time and Money</h2>
-      <p>Using our GUI-based Visual Development Platform you compose parts and templates, which increase reuse of prior work and enables them to stop re-inventing the proverbial wheel saving you mass amounts of time and money.</p>
-      <p><a class="btn" href="#">View details &raquo;</a></p>
+      <p>Using our GUI-based Visual Development Platform you compose parts and templates, which increase reuse of prior work and enables you to stop re-inventing the proverbial wheel saving you mass amounts of time and money.</p>
+      <p><a class="btn" href="./timeAndMoney.html">View details &raquo;</a></p>
     </div><!-- span4 -->
     <div class="span4">
       <img class="img-rounded" width="140" height="140" src="{{ ASSET_PATH }}/img/index/createAnything.png">
