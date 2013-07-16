@@ -82,13 +82,13 @@ theme:
       <img class="img-rounded" width="140" height="140" src="{{ ASSET_PATH }}/img/index/createAnything.png">
       <h2>Create Anything</h2>
       <p>What you make with Vision is only limited to your imagination from back-end B2B services to Games anything is possible within our Development Platform.</p>
-      <p><a class="btn" href="#">View details &raquo;</a></p>
+      <p><a class="btn" href="./createAnything.html">View details &raquo;</a></p>
     </div> <!-- span4 -->
     <div class="span4">
       <img class="img-circle" width="140" height="140" src="{{ ASSET_PATH }}/img/index/consistent3.png">
       <h2>Consistent</h2>
       <p>Coding idiosyncrasies are removed, no more will you have to learn or figure out or use various platform syntax and “grammar.” Simply put the pieces of the puzzle together to make your own design.</p>
-      <p><a class="btn" href="#">View details &raquo;</a></p>
+      <p><a class="btn" href="./consistent.html">View details &raquo;</a></p>
     </div> <!-- span4 -->
   </div> <!-- row -->
 
