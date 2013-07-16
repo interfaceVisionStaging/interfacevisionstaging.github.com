@@ -17,9 +17,9 @@
         <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
         <div class="nav-collapse collapse">
           <ul class="nav">
-            <li class="active"><a href="{{ HOME_PATH }}">Home</a></li>
-            <li><a href="/theTeam.html">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li {% if page.id == "home" %}class="active"{% endif %}><a href="./index.html">Home</a></li>
+            <li {% if page.id == "about" %}class="active"{% endif %}><a href="./aboutUs.html">About Us</a></li>
+            <li {% if page.id == "contact" %}class="active"{% endif %}><a href="./contact.html">Contact</a></li>
 
             <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
             <li class="dropdown">
@@ -47,8 +47,37 @@
 <div class="container">
     <!-- FOOTER -->
     <footer>
-      <p class="pull-right"><a href="#">Back to top</a></p>
-      <p>&copy; 2013 Interface Vision, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      <div class="container">
+          <div class="row">
+              <div class="span3">
+                  <h5>Product</h5>
+                  <a href="#" target="_blank">Product</a><br>
+                  <a href="#">Upgrade to Pro</a><br>
+                  <a href="#">FAQ</a><br>
+                  <a href="#" target="_blank">Developer Support</a>
+              </div>
+              <div class="span3">
+                <h5>About Us</h5>
+                <a href="./aboutUs.html">Company and Team</a><br>
+                <a href="./tour.html">Features</a><br>
+                <a href="#">Privacy</a><br>
+                <a href="#">Terms</a>
+              </div>
+              <div class="span3">
+                <h5>Community</h5>
+                <a href="http://blog.interfacevision.com/">Blog</a> <br>
+                <a href="https://twitter.com/interfacevision/">Twitter</a> <br>
+                <a href="https://facebook.com/interfacevision/">Facebook</a><br>
+                <a href="#">Contact Us</a>
+              </div>
+              <div class="span3">
+                <h5>Community</h5>
+                <a href="http://blog.kippt.com/">Attribution</a> <br>
+              </div>
+          </div>
+      </div>
+<!--       <p class="pull-right"><a href="#">Back to top</a></p>
+      <p>&copy; 2013 Interface Vision, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p> -->
     </footer>
 </div>
 

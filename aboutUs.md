@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Interface Vision - Our Team
+title: Interface Vision - About Us
+id: about
 tagline: Meet our team with Kevin Beattie, Eric Hosick and Chris Hylton.
 theme:
   name: twitter
@@ -14,8 +15,8 @@ theme:
       <img src="{{ ASSET_PATH }}/img/carousel/slide-06.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>The Team</h1>
-          <p class="lead">Our ever growing "brain trust" is a Motley crew of friends and tech lovers.  We are always looking for more pieces to make our puzzle larger so contact us.</p>
+          <h1>About Us</h1>
+          <p class="lead">We are here to decode software development.</p>
           <a class="btn btn-large btn-primary" href="#">Join The Vision</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
@@ -55,7 +56,6 @@ theme:
 
 </div>
 
-<script src="{{ ASSET_PATH }}/js/holder/holder.js"></script>
 
 
 
