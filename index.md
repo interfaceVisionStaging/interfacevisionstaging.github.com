@@ -42,16 +42,6 @@ theme:
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div>  <!--item  -->
-    <div class="item">
-      <img src="{{ ASSET_PATH }}/img/carousel/slide-04.jpg" alt="">
-      <div class="container">
-        <div class="carousel-caption">
-          <h1>Global Regression Testing</h1>
-          <p class="lead">Vision can assure backwards compatibility across all users and between different versions of our API using our cloud based regression testing service.</p>
-          <a class="btn btn-large btn-primary" href="./signup.html">Sign up today</a>
-        </div> <!-- carousel-caption -->
-      </div> <!-- container -->
-    </div> <!-- item -->
   </div> <!-- carousel-inner -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
