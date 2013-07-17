@@ -19,3 +19,9 @@
     </div> <!-- carousel-caption -->
   </div> <!-- container -->
 </div> <!-- item -->
+
+<h2>Create<br>Consistently</h2>
+<p></p>
+<p>Coding idiosyncrasies are removed, no more will you have to learn or figure out or use various platform syntax and “grammar.” Simply put the pieces of the puzzle together to make your own design.</p>
+
+<p><a class="btn btn-large btn-primary" href="./tour.html#timeAndMoney">View details &raquo;</a></p>
