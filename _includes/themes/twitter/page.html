@@ -10,37 +10,25 @@
           <span class="icon-bar"></span>
         </button>
 		
-		<a class="brand" href="{{ HOME_PATH }}">
-		  <img width="261.5" height="64" src="{{ ASSET_PATH }}/img/branding/interfaceVisionLogoNoBorder.png"></img>
-		</a>
+        <a class="brand" href="{{ HOME_PATH }}">
+          <img width="261.5" height="64" src="{{ ASSET_PATH }}/img/branding/interfaceVisionLogoNoBorder.png"></img>
+        </a>
 
-        <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
         <div class="nav-collapse collapse">
           <ul class="nav">
             <li {% if page.id == "home" %}class="active"{% endif %}><a href="./index.html">Home</a></li>
+            <li {% if page.id == "products" %}class="active"{% endif %}><a href="./products.html">Products</a></li>
+            <li {% if page.id == "tour" %}class="active"{% endif %}><a href="./tour.html">Tour</a></li>
             <li {% if page.id == "about" %}class="active"{% endif %}><a href="./aboutUs.html">About Us</a></li>
+            <li {% if page.id == "signup" %}class="active"{% endif %}><a href="./signup.html">Sign Up</a></li>
             <li {% if page.id == "contact" %}class="active"{% endif %}><a href="./contact.html">Contact</a></li>
-
-            <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="nav-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
-              </ul>
-            </li>
           </ul>
-        </div><!--/.nav-collapse -->
-      </div><!-- /.navbar-inner -->
-    </div><!-- /.navbar navbar-inverse -->
+        </div><!-- nav-collapse -->
+      </div><!-- navbar-inner -->
+    </div><!-- navbar navbar-inverse -->
 
-  </div> <!-- /.container -->
-</div><!-- /.navbar-wrapper -->
+  </div> <!-- container -->
+</div> <!-- navbar-wrapper -->
 
 {{ content }}
 
@@ -51,28 +39,26 @@
           <div class="row">
               <div class="span3">
                   <h5>Product</h5>
-                  <a href="#" target="_blank">Product</a><br>
-                  <a href="#">Upgrade to Pro</a><br>
-                  <a href="#">FAQ</a><br>
-                  <a href="#" target="_blank">Developer Support</a>
+                  <a href="./product.html" target="_blank">Product</a><br>
+                  <a href="./tour.html" target="_blank">Tour</a><br>
+                  <a href="./signup.html">Signup Now</a><br>
+                  <!-- <a href="#">FAQ</a><br> -->
+                  <!-- <a href="#" target="_blank">Developer Support</a> -->
               </div>
               <div class="span3">
                 <h5>About Us</h5>
                 <a href="./aboutUs.html">Company and Team</a><br>
                 <a href="./tour.html">Features</a><br>
-                <a href="#">Privacy</a><br>
-                <a href="#">Terms</a>
+                <!-- <a href="#">Privacy</a><br> -->
+                <!-- <a href="#">Terms</a> -->
               </div>
               <div class="span3">
                 <h5>Community</h5>
                 <a href="http://blog.interfacevision.com/">Blog</a> <br>
                 <a href="https://twitter.com/interfacevision/">Twitter</a> <br>
-                <a href="https://facebook.com/interfacevision/">Facebook</a><br>
-                <a href="#">Contact Us</a>
-              </div>
-              <div class="span3">
-                <h5>Community</h5>
-                <a href="http://blog.kippt.com/">Attribution</a> <br>
+                <a href="https://facebook.com/interfacevision/">Facebook</a> <br>
+                <a href="./contact.html">Contact Us</a> <br>
+                <a href="./attribution.html">Attribution</a> <br>                
               </div>
           </div>
       </div>
@@ -104,6 +90,8 @@ in default.html
 <script src="{{ ASSET_PATH }}/js/bootstrap-typeahead.js"></script>
 -->
 
+<!--
+
 <script>
   !function ($) {
     $(function(){
@@ -122,6 +110,7 @@ in default.html
   }); */
   
 </script>
+-->
 
 
 

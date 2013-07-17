@@ -1,0 +1,10 @@
+<div class="item">
+  <img src="{{ ASSET_PATH }}/img/carousel/slide-03.jpg" alt="">
+  <div class="container">
+    <div class="carousel-caption">
+      <h1>Cross Platform</h1>
+      <p class="lead">Develop once and run instantly on multiple front and back end platforms including iOS, OSX, Android, Linux and Windows.</p>
+      <a class="btn btn-large btn-primary" href="./signup.html">Sign up today</a>
+    </div> <!-- carousel-caption -->
+  </div> <!-- container -->
+</div> <!-- item -->

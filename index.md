@@ -18,7 +18,7 @@ theme:
         <div class="carousel-caption">
           <h1>Develop Software Without Writing Code</h1>
           <p class="lead">Interface Vision has simplified the development process by creating the first true cross platform, non domain-specific, GUI based Visual Development Platform (VDP) for the software fulfillment process: Vision.</p>
-          <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+          <a class="btn btn-large btn-primary" href="./signup.html">Sign up today</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item active -->
@@ -28,7 +28,7 @@ theme:
         <div class="carousel-caption">
           <h1>Advanced Collaboration</h1>
           <p class="lead">Developers, UX/UI designers, product owners, entrepreneurs and customers continually collaborate with each other to build out their software products in real time from anywhere.</p>
-          <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+          <a class="btn btn-large btn-primary" href="./signup.html">Sign up today</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item active -->
@@ -38,27 +38,17 @@ theme:
         <div class="carousel-caption">
           <h1>Everyone Speaks the Same Language</h1>
           <p class="lead">Entrepreneurs, UX-Designers, Developers and Product owners work seamlessly together: seeing their product emerge in real time. Getting requirements, mocking, designing and programming are all done in concert.</p>
-          <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+          <a class="btn btn-large btn-primary" href="./signup.html">Sign up today</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div>  <!--item  -->
-    <div class="item">
-      <img src="{{ ASSET_PATH }}/img/carousel/slide-03.jpg" alt="">
-      <div class="container">
-        <div class="carousel-caption">
-          <h1>Cross Platform</h1>
-          <p class="lead">Develop once and run instantly on multiple front and back end platforms including iOS, OSX, Android, Linux and Windows.</p>
-          <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
-        </div> <!-- carousel-caption -->
-      </div> <!-- container -->
-    </div> <!-- item -->
     <div class="item">
       <img src="{{ ASSET_PATH }}/img/carousel/slide-04.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Global Regression Testing</h1>
           <p class="lead">Vision can assure backwards compatibility across all users and between different versions of our API using our cloud based regression testing service.</p>
-          <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+          <a class="btn btn-large btn-primary" href="./signup.html">Sign up today</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item -->

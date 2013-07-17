@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interface Vision - Tour Of Our Features
+title: Interface Vision - Our Three Hour Tour Of Features
 id: tour
 tagline: 
 theme:
@@ -16,7 +16,7 @@ theme:
       <div class="container">
         <div class="carousel-caption">
           <h1>Save Time And Money</h1>
-          <p class="lead">Vision is a highly collaborative development tools that leads to consistent software solutions.</p>
+          <p class="lead">Vision is a highly collaborative development tool that leads to consistent software solutions.</p>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item active -->
@@ -35,7 +35,9 @@ theme:
 	
 <p class="lead">Finally they team regroups to reevaluate the process.  While this is a great and affective tool to keep people focused and on track, why not remove a few steps?  With the Vision platform not only can you have this same type of collaboration, but as you build out your storyboard, you are building the program and seeing it run instantly</p>
   </div> <!-- featurette -->
+  
   <hr class="featurette-divider">
+  
   <div class="featurette" id="Proposals2">
     <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/misc/currentLog.jpg">
     <h2 class="featurette-heading">Make it</h2>
@@ -43,10 +45,36 @@ theme:
     <p class="lead">No more will you have to code, verify syntax, compile debug, document, wash, rinse and repeat. Using the Vision platform anyone can simply take the pieces of their program and put it together. Not only can you watch your work run live, but without all the added steps involved in coding, the time and monetary saving will enable you to focus on the creativity of the program not this idiosyncrasies.</p>
   </div> <!-- featurette -->
 
+  <hr class="featurette-divider">
+
+  <div class="featurette">
+    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/misc/glowingParts.jpg">
+    <h2 class="featurette-heading">Stop </h2>
+    <h2 class="featurette-heading muted">Re-inventing the Wheel</h2>
+    <p class="lead">Without the added hassle of current software development processes Vision allows you to focus on what you do best, create.  No more rules, insanely repetitious steps and hoops to jump through, no more constantly checking and rechecking your work, and finally, no more second-guessing yourself.  Now you just build.  Build whatever you want be it a game or a B2B tool heck if you want even your own OS. The program is only limited by your imagination and creativity.</p>	
+  </div> <!-- featurette -->
+
+  <hr class="featurette-divider">
+
+  <div class="featurette">
+    <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/misc/glowingParts.jpg">
+    <h2 class="featurette-heading">Build </h2>
+    <h2 class="featurette-heading muted">Consistent</h2>
+	  <p class="lead">As you build it only gets easier because the elements that you have created can be used over and over again so more typing and re-typing heck, no more typing ridiculous amounts! With Vision we “decode software development” we have written the code so you don’t have to all you have left to focus on is your imagination.</p>
+  </div> <!-- featurette -->
+
+  <hr class="featurette-divider">
+
+  <div class="featurette">
+    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/misc/glowingParts.jpg">
+    <h2 class="featurette-heading">One Language </h2>
+    <h2 class="featurette-heading muted">To Help Them All</h2>
+    <p class="lead">No more will you have to be or find a specialist in any one language with our Vision VDP there is no idiosyncratic syntax, grammar or rules there are only pieces to your puzzle. You move them together to create what you want.  Want to build an App, no problem.  Want to build a game, done.  Need a new tool that is specific to your company, make it.  The simplicity of the system allows you to build and not divert your attentions.</p>	
+  </div> <!-- featurette -->
+
+  <hr class="featurette-divider">
+
 </div>
-
-
-
 
 
 
