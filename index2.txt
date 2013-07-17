@@ -25,3 +25,25 @@
 <p>Coding idiosyncrasies are removed, no more will you have to learn or figure out or use various platform syntax and “grammar.” Simply put the pieces of the puzzle together to make your own design.</p>
 
 <p><a class="btn btn-large btn-primary" href="./tour.html#timeAndMoney">View details &raquo;</a></p>
+
+
+<div class="item">
+  <img src="{{ ASSET_PATH }}/img/carousel/slide-01.jpg" alt="">
+  <div class="container">
+    <div class="carousel-caption">
+      <h1>Advanced Collaboration</h1>
+      <p class="lead">Developers, UX/UI designers, product owners, entrepreneurs and customers continually collaborate with each other to build out their software products in real time from anywhere.</p>
+      <a class="btn btn-large btn-success" href="./signup.html">Sign up today</a>
+    </div> <!-- carousel-caption -->
+  </div> <!-- container -->
+</div> <!-- item active -->
+<div class="item">
+  <img src="{{ ASSET_PATH }}/img/carousel/slide-02.jpg" alt="">
+  <div class="container">
+    <div class="carousel-caption">
+      <h1>Everyone Speaks the Same Language</h1>
+      <p class="lead">Entrepreneurs, UX-Designers, Developers and Product owners work seamlessly together: seeing their product emerge in real time. Getting requirements, mocking, designing and programming are all done in concert.</p>
+      <a class="btn btn-large btn-success" href="./signup.html">Sign up today</a>
+    </div> <!-- carousel-caption -->
+  </div> <!-- container -->
+</div>  <!--item  -->
