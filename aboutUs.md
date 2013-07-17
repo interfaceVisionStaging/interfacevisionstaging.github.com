@@ -16,7 +16,7 @@ theme:
       <div class="container">
         <div class="carousel-caption">
           <h1>About Us</h1>
-          <p class="lead">Interface Vision is here to decode software development.</p>
+          <p class="lead">Interface Vision is here revolutionize the software industry by decoding software development.</p>
           <a class="btn btn-large btn-primary" href="#">Join The Vision</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
@@ -32,7 +32,7 @@ theme:
   <div class="featurette">
     <h2 class="featurette-heading">About</h2>
     <h2 class="featurette-heading muted">Interface Vision</h2>
-    <p class="lead">We are here to serve the software development community by providing awesome software development and learning tools. We fully understand the frustration that designers, developers and users feel during the development process. We want to remove those frustrations by creating a product that allows for collaboration by everyone at every stop in the software fulfillment process.</p>
+    <p class="lead">We are here to serve the software development community by providing awesome software development and learning tools. We fully understand the frustration that designers, developers and users feel during the development process. We want to remove those frustrations by creating a product that allows for collaboration by everyone at every step in the software fulfillment process.</p>
   </div> <!-- featurette -->
   
   <hr class="featurette-divider">
