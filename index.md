@@ -73,7 +73,7 @@ theme:
     <img class="featurette-image pull-right img-rounded" src="{{ ASSET_PATH }}/img/index/education.png">
     <h2 class="featurette-heading">Education <span class="muted">Made Easier</span></h2>
     <p class="lead"><b><i>VISION</i></b> is very easy to learn. This, in conjunction with decoding software development, makes it really easy to teach people how to become great programmers.</p>
-    <p class="lead">Interface Vision is dedicated to making software education available to everyone: especially young adults. As such, we have partnered with <a href="http://www.innovisioneducation.com">The Innovision Education Group</a>.</p>
+    <p class="lead">Interface Vision is dedicated to making software education available to everyone: especially young adults. As such, we have partnered with <a href="http://www.innovisioneducation.com" target="_blank">The Innovision Education Group</a>.</p>
   </div> <!-- featurette -->
 
   <div class="huge-divider pagination-centered">
