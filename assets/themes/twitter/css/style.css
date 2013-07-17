@@ -247,11 +247,11 @@ body {
     margin-top: 100px;
   }
   .carousel-caption h1 {
-    font-size: 22px;
+    font-size: 20px;
   }
   .carousel-caption .lead,
   .carousel-caption .btn {
-    font-size: 12px;
+    font-size: 11px;
   }
 
   .marketing .span4 + .span4 {
