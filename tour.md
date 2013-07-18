@@ -16,7 +16,7 @@ theme:
       <div class="container">
         <div class="carousel-caption">
           <h1>VISION</h1>
-          <p class="lead"><b><i>VISION</i></b> is collaboration, consistency, simplicity, re-usability, learnable, cross-platform and nifty awesome.</p>
+          <p class="lead"><b><i>VISION</i></b> is about collaboration, consistency, simplicity, re-usability, learnability, cross-platform and nifty awesome.</p>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item active -->
@@ -42,7 +42,7 @@ theme:
     <h2 class="featurette-heading">Simplified </h2>
     <h2 class="featurette-heading muted">Development Process</h2>
     <p class="lead"><b><i>VISION</i></b> means you no longer have to code, verify syntax, compile debug, document, wash, rinse and repeat.</p>
-    <p class="lead">Every step of the development process in <b><i>VISION</i></b> uses the same approach: connect parts together to design and implement your software solutions.</p>
+    <p class="lead">Every step of the development process in <b><i>VISION</i></b>, from design to implementation to distribution, is done by connect parts together.</p>
   </div> <!-- featurette -->
 
   <hr class="featurette-divider">
@@ -51,7 +51,7 @@ theme:
     <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/misc/tour_04.png">
     <h2 class="featurette-heading">No More </h2>
     <h2 class="featurette-heading muted">Re-inventing the Wheel</h2>
-    <p class="lead">As you build out your software solutions in <b><i>VISION</i></b>, it only gets easier. The parts of your software that you have created can be turned into templates which can be used over and over again. There is no longer a need to re-invent the same things over and over again!</p>
+    <p class="lead">As you build out your software solutions in <b><i>VISION</i></b>, it only gets easier. The parts of your software that you have created can be turned into templates which can be re-used. There is no longer a need to re-invent the same things over and over again!</p>
     <p class="lead">With <b><i>VISION</i></b>, we have written an awesome framework which allows you to focus on your solutions and not our development platform.</p>
   </div> <!-- featurette -->
 
@@ -69,6 +69,5 @@ theme:
   </div>  
 
   <hr class="featurette-divider">
-
 
 </div>
