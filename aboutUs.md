@@ -35,6 +35,7 @@ theme:
     <p class="lead">We are here to serve the software development community by providing awesome software development and learning tools.</p>
     <p class="lead">We fully understand the frustration that designers, developers and users feel during the development process. We want to remove those frustrations by creating a product that allows for collaboration by everyone at every step in the software fulfillment process.</p>
     <p class="lead">We fully understand how frustrating it can be when it comes to learning how to develop software. We want to remove that frustration by allowing students to focus on their problem solving skills through programming.</p>
+    <p class="lead"></p>
   </div> <!-- featurette -->
   
   <hr class="featurette-divider">

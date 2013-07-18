@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Interface Vision - Our Products And Services
+title: Interface Vision - Join Up Now. Want to Know More?
 id: careers
-tagline: 
+tagline: Interface Vision is always looking for the best of the best. Join Up Now. Service guarantees citizenship.
 theme:
   name: twitter
 ---
@@ -32,8 +32,8 @@ theme:
     <h2 class="featurette-heading">We Have The Technology</h2>
     <h2 class="featurette-heading muted">Do You Have The Skills</h2>
     <p class="lead">If you are a developer, you must be wondering how we do it. What magic goes on behind the scenes that makes <b><i>VISION</i></b> possible.</p>
-    <p class="lead">As a UX designer, you've got to be interested in working on the first Visual Object Programming Language.</p>
-    <p class="lead">Please contact <a href="mailto:chrishylton@interfacevision.com">Chris Hylton</a>.</p>
+    <p class="lead">As a UX designer, you've got to be interested in working on the first Visual Object Programming Language in <i>known</i> existence.</p>
+    <p class="lead">Please contact <a href="mailto:chrishylton@interfacevision.com">Chris Hylton</a> to learn more.</p>
      
   </div> <!-- featurette -->
   
