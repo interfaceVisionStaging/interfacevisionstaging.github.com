@@ -16,7 +16,7 @@ theme:
       <div class="container">
         <div class="carousel-caption">
           <h1>VISION</h1>
-          <p class="lead"><b><i>VISION</i></b> is about collaboration, consistency, simplicity, re-usability, learnability, cross-platform and nifty awesome.</p>
+          <p class="lead"><b><i>VISION</i></b> is about collaboration, consistency, simplicity, re-usability, learnability, cross-platform-idness and nifty awesome.</p>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item active -->
@@ -61,7 +61,7 @@ theme:
     <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/misc/glowingParts.jpg">
     <h2 class="featurette-heading">IT Education </h2>
     <h2 class="featurette-heading muted">For Everyone</h2>
-    <p class="lead">Learning to write software is really hard because students need to learn how to program and how to code at the same time. <b><i>VISION</i></b> solves this problem by allowing students to learn how to programming without having to learn how to code. This allows the student to focus on the problem at hand without having to learn the idiosyncrasies of programming languages and compilers.</p>	
+    <p class="lead">Learning to write software is really hard because students need to learn how to program and how to code at the same time. <b><i>VISION</i></b> solves this problem by allowing students to learn how to programming without having to learn how to code. This allows the student to focus on problem solving without having to learn the idiosyncrasies of programming languages and compilers.</p>	
   </div> <!-- featurette -->
 
   <div class="huge-divider pagination-centered">

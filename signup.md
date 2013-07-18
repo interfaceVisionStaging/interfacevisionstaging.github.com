@@ -17,7 +17,8 @@ theme:
         <div class="carousel-caption">
           <h1>Signup Now</h1>
           <p class="lead">Signup for our beta program.</p>
-          <p class="lead">You can <a href="https://twitter.com/interfaceVision" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false" data-dnt="true">Follow</a> us on Twitter if you don't want to give out your email address. We will not share your email with anyone.</p>
+<!--           <p class="lead">Please also take the time to <a href="https://twitter.com/interfaceVision" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false" data-dnt="true">Follow</a> us on Twitter.</p> -->
+          <p class="lead">We will not share your email with anyone.</p>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item active -->

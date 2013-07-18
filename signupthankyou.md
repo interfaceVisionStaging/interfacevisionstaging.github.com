@@ -17,7 +17,7 @@ theme:
       <div class="container">
         <div class="carousel-caption">
           <h1>Signup Successful</h1>
-          <p class="lead">Thank your for signing up to our Beta program. You will be one of a few who will help to shape the future of software development.</p>
+          <p class="lead">Thank your for signing up to our Beta program.</p>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
     </div> <!-- item active -->
