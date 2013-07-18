@@ -42,7 +42,7 @@ theme:
     <h2 class="featurette-heading">Simplified </h2>
     <h2 class="featurette-heading muted">Development Process</h2>
     <p class="lead"><b><i>VISION</i></b> means you no longer have to code, verify syntax, compile debug, document, wash, rinse and repeat.</p>
-    <p class="lead">Every step of the development process in <b><i>VISION</i></b> uses the same approach: connect parts and templates together to design and implement your software solutions.</p>
+    <p class="lead">Every step of the development process in <b><i>VISION</i></b> uses the same approach: connect parts together to design and implement your software solutions.</p>
   </div> <!-- featurette -->
 
   <hr class="featurette-divider">
@@ -59,24 +59,12 @@ theme:
 
   <div class="featurette">
     <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/misc/glowingParts.jpg">
-    <h2 class="featurette-heading">Build </h2>
-    <h2 class="featurette-heading muted">Consistent</h2>
-    <p class="lead"><b><i>VISION</i></b> allows you to focus on what you do best: create.  No more rules, insanely repetitious steps and hoops to jump through, no more constantly checking and rechecking your work, and finally, no more second-guessing yourself. Now you just build.  Build whatever you want be it a game or a B2B tool heck if you want even your own OS. The program is only limited by your imagination and creativity.</p>	
-  </div> <!-- featurette -->
-
-  <hr class="featurette-divider">
-
-  <div class="featurette">
-    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/misc/tour_01.png">
-    <h2 class="featurette-heading">One Language </h2>
+    <h2 class="featurette-heading">IT Education </h2>
     <h2 class="featurette-heading muted">For Everyone</h2>
-    <p class="lead">VisionNo more will you have to be or find a specialist in any one language with our Vision VDP there is no idiosyncratic syntax, grammar or rules there are only pieces to your puzzle. You move them together to create what you want.  Want to build an App, no problem.  Want to build a game, done.  Need a new tool that is specific to your company, make it.  The simplicity of the system allows you to build and not divert your attentions.</p>	
+    <p class="lead">Learning to write software is really hard because students need to learn how to program and how to code at the same time. <b><i>VISION</i></b> solves this problem by allowing students to learn how to programming without having to learn how to code. This allows the student to focus on the problem at hand without having to learn the idiosyncrasies of programming languages and compilers.</p>	
   </div> <!-- featurette -->
 
   <hr class="featurette-divider">
+
 
 </div>
-
-
-
-

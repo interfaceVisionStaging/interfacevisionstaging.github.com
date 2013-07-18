@@ -47,3 +47,13 @@
     </div> <!-- carousel-caption -->
   </div> <!-- container -->
 </div>  <!--item  -->
+
+<div class="featurette">
+  <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/misc/tour_01.png">
+  <h2 class="featurette-heading">One Language </h2>
+  <h2 class="featurette-heading muted">For Everyone</h2>
+  <p class="lead">VisionNo more will you have to be or find a specialist in any one language with our Vision VDP there is no idiosyncratic syntax, grammar or rules there are only pieces to your puzzle. You move them together to create what you want.  Want to build an App, no problem.  Want to build a game, done.  Need a new tool that is specific to your company, make it.  The simplicity of the system allows you to build and not divert your attentions.</p>	
+</div> <!-- featurette -->
+
+<hr class="featurette-divider">
+
