@@ -64,6 +64,10 @@ theme:
     <p class="lead">Learning to write software is really hard because students need to learn how to program and how to code at the same time. <b><i>VISION</i></b> solves this problem by allowing students to learn how to programming without having to learn how to code. This allows the student to focus on the problem at hand without having to learn the idiosyncrasies of programming languages and compilers.</p>	
   </div> <!-- featurette -->
 
+  <div class="huge-divider pagination-centered">
+    <a class="btn btn-large btn-success" href="./signup.html">Sign up today</a>
+  </div>  
+
   <hr class="featurette-divider">
 
 

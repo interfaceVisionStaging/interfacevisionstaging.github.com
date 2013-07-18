@@ -58,7 +58,7 @@ theme:
   <div class="featurette">
     <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/index/iPadMockupParts524x410.png">
     <h2 class="featurette-heading">Collaboration <span class="muted">At Every Step</span></h2>
-    <p class="lead"><b><i>VISION</i></b> is the only development tool that allows developers, designers, product owners, entrepreneurs and their customers continually collaborating with each other to build out their software products at all steps within the development process.</p>
+    <p class="lead"><b><i>VISION</i></b> is the only development tool that allows developers, designers, product owners, entrepreneurs and their customers to continually collaborate with each other at every step within the development process.</p>
     <p class="lead">Collaboration takes place within <b><i>VISION</i></b> where everyone can work together seamlessly. This seamless collaboration is possible because users of <b><i>VISION</i></b> never have to write code.</p>
   </div> <!-- featurette -->
   <hr class="featurette-divider">

@@ -16,7 +16,7 @@ theme:
       <div class="container">
         <div class="carousel-caption">
           <h1>About Us</h1>
-          <p class="lead">Interface Vision is here revolutionize the software industry by decoding software development.</p>
+          <p class="lead">Interface Vision is here to revolutionize the software industry by decoding software development.</p>
           <a class="btn btn-large btn-primary" href=".\signup.html">Join The Vision</a>
         </div> <!-- carousel-caption -->
       </div> <!-- container -->
